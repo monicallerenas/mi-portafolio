@@ -1,0 +1,249 @@
+/*comienza header hecho entre ruth(detalles) y monica(detalles)*/
+.miportafolio{
+	background-image:url(../img/header.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+}
+.text-right{
+	list-style-type: none;
+}
+.portafolio{
+	display: inline-block;
+	margin:20px 0px;
+	color: #FFFFFF;
+}
+.hporta{
+	color: #FFFFFF;
+	font-size: 54px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+.hrporta{
+	width:60px;
+	height: 3px;
+	background:#FF6666;
+	border:#FF6666; 
+}
+.pporta{
+	margin-bottom: 50px;
+	color: #FFFFFF;
+	text-align: center;
+	opacity: .7;
+}
+.active{
+	margin: 80px;
+	color: #FFFFFF;
+}
+.active2{
+	color:white;
+}
+.btn{
+	width: 200px;
+	height: 50px;
+	background: #FF6666;
+	margin:5% 0px 0px 33%;
+	padding: 15px;
+	border-radius: 100px;
+}
+.btn-black{
+	opacity: 1;
+	color:white;
+}
+.btn-white{
+	opacity: .7;
+	color: #FFFFFF;	
+}
+/*termina header*/
+/*comienza section portafolio y sobre mi hecho por Ruth (esqueleto) y monica(detalles) */
+.portafoliodos{
+	width: 100%;
+	height: 70px;
+	background-size: cover;
+	background: #FF6666;
+	color:#FAAC58 !important;
+	opacity: .8;
+	padding-top: 5px;
+}
+.text-right{
+	list-style-type: none;
+}
+.sobre{
+	width: 100%;
+	height: 250px;
+	background-color: #FF6666;
+	text-align: center;
+}
+.active3{
+	color: #FAAC58;
+
+}
+.active4{
+	color:#B40404;
+}
+.hsobre{
+	text-align: center;
+	color:white;
+}
+.hrsobre{
+	width: 60px;
+	height: 3px;
+}
+.psobre{
+	text-align: center;
+	color:white;
+}
+/*termina section y portafolio sobre mi*/
+/*INICIO section.LoremBIG Hecho por Bet  */
+section.LoremBIG
+	{
+		background-color: white;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+		h2
+			{
+				color: #FF6666;
+				text-align: center;
+				padding-top: 20px;
+			}
+		hr
+			{
+				color: #FF6666;
+				width: 70px;
+				border: solid 2px;
+				text-align: center;
+				margin-bottom: 60px;
+			}
+		div.col-3
+			{
+				display: inline-block !important;
+			}
+		div.LoremBIGPosition
+		{
+			margin: 15px 10px;
+			position: relative;
+			display: inline-block !important;
+			font-family: sans-serif;
+			text-align: center;
+		}
+		div.LoremBIGPosition	i
+					{
+						position: relative;
+						max-width: 230px;
+						color: #FF6666;
+						margin: 5px center;
+					}
+		div.LoremBIGPosition	h3
+					{
+						font-family: ;
+						color: black;
+						margin: 10px center;
+						position: relative;
+						max-width: 230px;
+					}
+		div.LoremBIGPosition	p
+					{
+						font-family: ;
+						color: #888;
+						position: relative;
+						display: inline-block;
+						max-width: 230px;
+						margin: 5px center;
+					}
+	
+/*FIN section.LoremBIG Hecho por Bet */
+
+/*INICIO section.IMG Hecho por Bet*/
+section.IMG
+	{}
+				div.BackIMG
+					{
+					width: 489px !important;
+					height: 264px !important;
+					}
+				div.BackIMG:hover /*Aquí se podría meter un filtro de color*/
+					{
+					opacity: 0.8;
+					color: white;	
+					}
+					div.BackIMG  img
+						{
+						width: 485px;
+						height: 264px;
+						}
+					.correct
+						{margin-left: 0px;
+						 padding-right: 0px;}
+					.FondoGris
+						{background-color: #303030;
+						 min-width: 489px;
+						 min-height: 264px;
+						 max-width: 1420px;
+						 max-height: 300px;
+						 margin-right: -70px;}
+					.FondoGris p
+						{color: white;
+						font-size: 27px;
+						font-family: sans-serif;
+						text-align: center;
+						padding-top: 60px;
+						padding-bottom: 20px;
+						padding-left: 20px;
+						padding-right: 30px;}
+					.BotonBlanco
+						{background-color: white;
+						 color: #303030;
+						 font-family: sans-serif;
+						 font-size: 17px;
+						 font-weight: bold;
+						 text-align:center;
+						 border-radius: 20px;
+						 padding: 10px 20px;}
+					.BotonBlanco:hover
+						{background-color: #a0a0a0;}
+			/*	div.uno
+					{background-image: url(../img/portfolio/1.jpg);}
+				div.dos
+					{background-image: url(../img/portfolio/2.jpg);}
+				div.tres
+					{background-image: url(../img/portfolio/3.jpg);}
+				div.cuatro
+					{background-image: url(../img/portfolio/4.jpg);}
+				div.cinco
+					{background-image: url(../img/portfolio/5.jpg);}
+				div.seis
+					{background-image: url(../img/portfolio/6.jpg);}
+				
+				*/
+
+/*FIN section.IMG Hecho por Bet*/
+.span
+	{
+		display: inline-block;
+	}
+/*Comienza el footer hecho por ruth y detallado por monica*/
+.footer{
+	text-align: center;
+	height: 50px;
+	margin-right: 500;	
+}
+
+
+.footer1{
+	width:60px;
+	height: 3px;
+	background:#FF6666;
+	border:#FF6666;
+}
+
+.fone{
+	display: inline-block;
+}
+
+.corre{
+	margin-right: 20px;
+	display:inline-block;
+	float: left;
+}
